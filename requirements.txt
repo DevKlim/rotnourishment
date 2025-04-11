@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+gTTS
+# Note: moviepy requires ffmpeg to be installed on your system.
+# Mac: brew install ffmpeg
+# Windows: Download from ffmpeg.org and add to PATH
